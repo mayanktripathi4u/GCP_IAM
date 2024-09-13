@@ -1,8 +1,8 @@
 group_name,member_identity,member_type
-group-1,user1@example.com,user
-group-1,user2@example.com,user
-group-1,user3@example.com,user
-group-2,user4@example.com,user
-group-3,user4@example.com,user
-group-1,user5@example.com,user
-group-3,user6@example.com,user
+group-1@example.com,user1@example.com,user
+group-1@example.com,user2@example.com,user
+group-1@example.com,user3@example.com,user
+group-2@example.com,user4@example.com,user
+group-3@example.com,user4@example.com,user
+group-1@example.com,user5@example.com,user
+group-3@example.com,user6@example.com,user
