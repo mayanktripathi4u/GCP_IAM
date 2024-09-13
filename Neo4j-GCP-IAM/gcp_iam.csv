@@ -1,0 +1,11 @@
+project,resource,role,identity,identity_type
+project-1,bucket-1,viewer,user@example.com,user
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
+project-1,instance-1,editor,service-account@example.com,serviceAccount
